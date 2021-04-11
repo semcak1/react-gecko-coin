@@ -1,0 +1,21 @@
+h1, p {
+  font-family: Lato;
+}
+
+.rowAlign {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items:  center;
+}
+
+.rowDesign {
+  background-color: palegoldenrod;
+  border-width: 10px;
+  border-color: rgb(0, 0, 0);
+  border-radius: 10px;
+}
+
+.buttonView{
+  font-size: 10;
+}
